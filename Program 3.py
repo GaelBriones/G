@@ -1,0 +1,6 @@
+print("I'm")
+print("\"learning\"")
+print("\\Python\\")
+print("Hello! MY name is: \nGael")
+print("name: Gael \t address: 7285 Old Oak Blvd\t city: Middleburgh Heights\t state: Ohio \t zip: 44130")
+print("Hello! MY name is: \rGael")
